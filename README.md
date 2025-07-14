@@ -153,8 +153,8 @@ Este projeto foi desenvolvido para fins educacionais e de demonstração.
 
 ## 👨‍💻 Desenvolvedores
 
-- **Felippe** - Desenvolvimento Frontend e Backend
-- **Nicholas** - Desenvolvimento Frontend e Backend
+- **Felippe Rodales** - Desenvolvimento Frontend e Backend
+- **Nicholas Ferraz** - Desenvolvimento Frontend e Backend
 
 ---
 
