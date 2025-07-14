@@ -21,6 +21,7 @@ O Projeto WSAlexandria é um assistente técnico inteligente que utiliza IA para
 - Upload de PDFs, documentos e arquivos de áudio
 - Processamento automático pelo LlamaIndex Cloud
 - Gerenciamento de documentos
+- Forte aderencia a API internas e compatibilidade com wilsonsons.softexpert.com
 - Status de processamento em tempo real
 
 ### 👥 Acesso Convidado
@@ -157,5 +158,3 @@ Este projeto foi desenvolvido para fins educacionais e de demonstração.
 - **Nicholas Ferraz** - Desenvolvimento Frontend e Backend
 
 ---
-
-**Projeto WSAlexandria** - Forte aderencia a API internas e compatibilidade com http://wilsonsons.softexpert.com/
