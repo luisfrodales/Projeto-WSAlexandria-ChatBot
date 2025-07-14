@@ -158,4 +158,4 @@ Este projeto foi desenvolvido para fins educacionais e de demonstração.
 
 ---
 
-**Projeto WSAlexandria** - Assistente Técnico Inteligente 
+**Projeto WSAlexandria** - Forte aderencia a API internas e compatibilidade com http://wilsonsons.softexpert.com/
